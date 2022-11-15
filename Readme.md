@@ -1,1 +1,3 @@
-# This is the Git Tutorial will be here
+# Git Tutorial
+
+This is the Git Tutorial will be here
